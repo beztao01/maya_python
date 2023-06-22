@@ -1,0 +1,6 @@
+cmds.window()
+cmds.columnLayout( columnAttach=('both', 5), rowSpacing=10, columnWidth=250 )
+cmds.button()
+cmds.button()
+cmds.button()
+cmds.showWindow()
